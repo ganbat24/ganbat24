@@ -4,7 +4,7 @@ I am looking for a job!
  
  
 # Contact me on Linkedin:
-![linkedin](https://www.linkedin.com/in/ganbat-selenge-372071222/)
+[![linkedin](https://www.linkedin.com/in/ganbat-selenge-372071222/)]
 
 # Languages: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
